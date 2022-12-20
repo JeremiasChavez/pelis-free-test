@@ -1,0 +1,91 @@
+Canal Video Curso:Soy Dalto
+
+para cerrar y abrir una etiqueta es este
+                    abrir            cerrar
+comando : <muestra>  </muestra>
+
+Comandos:
+
+<h1>,<h2>,<h3>,<h4>,<h5>,<h6>= texto para 
+la pagina
+
+<head> = todo lo que no se puede ver de
+la pagina
+
+<body> = lo que si puedes ver en la
+pagina.
+
+<p> = crear un nuevo parrafo
+
+<b> = modificar tipo de letra a negrita
+
+<i> = para poner la letra inclinada
+
+<small> = para poner la letra chiquita
+
+<a href=¨¨>Texto</a> = es para que me redigija
+a otra pagina en un link
+
+<br> = es para cuando termine un punto
+todo lo que venga despues se valla abajo
+de el texto
+
+target=¨_BLANK = es para abrir una
+redireccion en otra pagina
+
+<ul><li></ul> = es para hacer una lista.
+
+<img src=¨url o foto desde pc¨ width=¨100px¨
+height=¨100px¨>
+
+width = para modificar el ancho
+de la foto o url
+
+height = para aumentarle la resolucion a la
+foto o url
+
+<video src=¨enlace¨ controls></video>
+
+<audio src=¨enlace¨ controls></audio>
+
+RECOMIENDO HACER TODO ESO EN CSS
+PORQUE UNA VEZ YA ECHO ESO EN
+HTML NO SE PODRA MODIFICAR.
+
+<div></div> = es para separar contenido y
+agruparlo
+
+<form><input type=¨text o number etc¨></form> =
+es para crear formularios
+
+required=¨¨ = es para que al menos
+tienes que llenar un campo del formulario
+para poder enviarlo.
+
+<meta charset=¨utf-8¨> = para que se puedan
+poner acentos etc.
+
+<meta name=¨keywords¨ content=¨texto¨> =
+
+es para que cuando busquemos en el navegador
+en terioria dice las palabras claves de esta
+pagina es ¨texto¨
+
+<meta name=¨description¨ content=¨¨> =
+es para describir la pagina
+
+<meta name=¨author¨ content=¨nombre¨>
+
+<meta name=¨copyright¨ content=¨url¨> =
+es para informarles si nuestra pagina tiene
+copyright o no.
+
+<meta name="robots" content="noindex/index"> =
+esto es para que si nuestra pagina es publica
+osea si las personas la pueden buscar
+noindex es que es privada y index es publica.
+
+
+
+EL COMANDO <meta>
+VA EN LA PARTE DE <head>
